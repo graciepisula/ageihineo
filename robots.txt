@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oijiaboos.gxy2018.com/sitemap.xml
